@@ -120,7 +120,8 @@ Esta vista incluye:
 
 ## Autor
 
-Alejandra Vargas (@alejabv4)
+Alejandra Bernal
+Roberto Guerrero
 
 ## Licencia
 
